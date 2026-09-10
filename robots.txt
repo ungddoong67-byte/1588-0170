@@ -1,7 +1,8 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://퀵배송1661-4262.kr/sitemap.xml
+Disallow: /admin/
+Disallow: /private/
 
-
-
+Sitemap: https://1588-0170.com/sitemap.xml
+Sitemap: https://1588-0170.com/feed.rss
